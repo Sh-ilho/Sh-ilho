@@ -1,6 +1,6 @@
+개발 세계에 눈을 뜬 뉴비입니다.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-ilho)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sh-ilho)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>내가 배운 언어</p>
