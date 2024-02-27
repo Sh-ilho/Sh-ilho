@@ -1,5 +1,5 @@
 개발 세계에 눈을 뜬 뉴비입니다.
-현재 프론트엔드, 백엔드 모두 관심을 가지고 있습니다. 산업공학도로써, 데이터 분석과 머신러닝 또한 공부해오고 있습니다.
+현재 프론트엔드, 백엔드 모두 관심을 가지고 있습니다. 산업공학도로서, 데이터 분석과 머신러닝 또한 공부해오고 있습니다.
 깃헙에는 이런 공부 내용과 여러 활동들을 담아보고자 합니다.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-ilho)](https://github.com/anuraghazra/github-readme-stats)
